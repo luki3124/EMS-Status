@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [":stethoscope::hospital:Menadzer Firmy EMS:hospital::stethoscope:","Bot Stworzony przez luki.o", "Jarredzik Na medyku Synku"];
+const statusMessages = ["🔫CSOWICZE ON TOP🔫","Bot Stworzony przez luki.o🎈", "🎥Squad: Qchtung,luki,tłuszczyk,Hiszpan🎥"];
 
 
 let currentIndex = 0;
